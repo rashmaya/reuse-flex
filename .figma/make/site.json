@@ -1,0 +1,11 @@
+{
+  "title": "Reuse Flex",
+  "description": "This mobile app enables users to manage their wardrobe by adding favorites, logging wears and repairs, and viewing item details for a streamlined fashion experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
